@@ -22,8 +22,6 @@ A collaborative filtering-based recommendation engine built using real-world e-c
 | Folder/File | Purpose |
 |------------|---------|
 | `notebooks/` | Main Jupyter Notebook with full working logic |
-| `models/` | Pretrained recommender model |
-| `data/` | Placeholder for dataset (not included in repo) |
 | `README.md` | Project overview |
 | `requirements.txt` | List of required Python libraries |
 
