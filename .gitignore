@@ -1,0 +1,10 @@
+# Ignore large folders and files
+data/
+models/
+__pycache__
+.ipynb_checkpoints
+*.csv
+*.pkl
+*.zip
+*.env
+*.log
